@@ -1,4 +1,4 @@
 ﻿# MyFirstRepo
 説明
 
-ここではNotepadで変更しています。
+ここではNotepadで変更しています。ぶつかるで！
